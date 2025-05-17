@@ -1,7 +1,7 @@
 {
 	"data": {
 		"articleList": [],
-		"author": "bd,kh,vn,au,cn",
+		"author": "bd,kh,vn,au",
 		"children": [],
 		"courseId": 60,
 		"cover": "",
@@ -17,7 +17,7 @@
 		"xiaomi": false,
 		"vivo": false,
 		"sanxing": false,
-		"google": true,
+		"google": false,
 		"oppo": false,
 		"other": false,
 		"huawei": false,
