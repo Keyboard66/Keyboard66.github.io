@@ -17,7 +17,7 @@
 		"xiaomi": false,
 		"vivo": false,
 		"sanxing": false,
-		"google": false,
+		"google": true,
 		"oppo": false,
 		"other": false,
 		"huawei": false,
